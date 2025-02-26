@@ -51,5 +51,4 @@ I'm Luis Aguilar, Front-End developer from Mexico. I love coding, music and pets
 </p>
 
 ## 👦 Github Stats:
-## [![LuisEA97's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEA97)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hd-luisaguilar&theme=dark&show_icons=true&hide_border=true&count_private=true)
